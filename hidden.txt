@@ -1,0 +1,3 @@
+import openai
+
+api_key = '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'
